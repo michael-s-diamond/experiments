@@ -1,4 +1,7 @@
 # AeroCom Experiment: Climate Impact of NPF versus Growth in Climate Models (CI-NPF)
+## Proposed plan (currently open for discussion)
+
+Please also see [slides from the Aerocom meeting](https://docs.google.com/presentation/d/1MunY_f0M7rGs6kug4ktKtEHfc82Hm9sQ/edit#slide=id.p7).
 
 **Organizers:**
 - Sara Blichner ([sara.blichner@aces.su.se](mailto:sara.blichner@aces.su.se))
@@ -49,7 +52,7 @@ Estimates of the contribution of NPF to CCN are primarily model-derived and vary
 | Jx0_PI          | 0                           | 1                              | 1                                  | PI                       | Evaluate CCN from NPF |
 
 ## Model Output Variables
-Refer to [Model_output_CI-NPF](#) and AeroCom diagnostics CTRL+X 2018/2019 for variable details.
+Refer to [Model_output_CI-NPF](https://docs.google.com/spreadsheets/d/1UV8m0anHLjVcsLsr8ZZD9fei7YiOxDEIdcMhNvqBjiI/edit?gid=1887560164#gid=1887560164) and [AeroCom diagnostics](https://docs.google.com/spreadsheets/d/1NiHLVTDsBo0JEBSnnDECNI2ojUnCVlxuy2PFrsRJW38/edit?gid=1281244438#gid=1281244438) for variable details.
 
 ### Model Output Submission
 - Follow AeroCom III-DURF output specifications.
@@ -63,7 +66,21 @@ Examples:
 - 3-D: `aerocom3_GEOS-i33p2_CI-NPF-histSST-oa_ModelLevel_2009_monthly.nc`
 
 ## References
-- Blichner, S. M., et al., (2021). *Reduced effective radiative forcing from cloud–aerosol interactions...* Atmos. Chem. Phys., 21, 17243–17265. [DOI](https://doi.org/10.5194/acp-21-17243-2021)
-- Gordon, H., et al., (2017). *Causes and importance of new particle formation...* J. Geophys. Res. Atmospheres, 122, 8739–8760. [DOI](https://doi.org/10.1002/2017JD026844)
-- Stolzenburg, D., et al., (2023). *Atmospheric nanoparticle growth.* Rev. Mod. Phys., 95, 045002. [DOI](https://doi.org/10.1103/RevModPhys.95.045002)
-- [Additional references are listed above]
+### References
+
+- Blichner, S. M., Sporre, M. K., & Berntsen, T. K. (2021). Reduced effective radiative forcing from cloud–aerosol interactions (ERFaci) with improved treatment of early aerosol growth in an Earth system model. *Atmospheric Chemistry and Physics*, 21, 17243–17265. [https://doi.org/10.5194/acp-21-17243-2021](https://doi.org/10.5194/acp-21-17243-2021)
+
+- Gordon, H., Kirkby, J., Baltensperger, U., Bianchi, F., Breitenlechner, M., Curtius, J., Dias, A., Dommen, J., Donahue, N. M., Dunne, E. M., Duplissy, J., Ehrhart, S., Flagan, R. C., Frege, C., Fuchs, C., Hansel, A., Hoyle, C. R., Kulmala, M., Kürten, A., Lehtipalo, K., Makhmutov, V., Molteni, U., Rissanen, M. P., Stozkhov, Y., Tröstl, J., Tsagkogeorgas, G., Wagner, R., Williamson, C., Wimmer, D., Winkler, P. M., Yan, C., & Carslaw, K. S. (2017). Causes and importance of new particle formation in the present-day and preindustrial atmospheres: CAUSES AND ROLE OF NEW PARTICLE FORMATION. *Journal of Geophysical Research: Atmospheres*, 122, 8739–8760. [https://doi.org/10.1002/2017JD026844](https://doi.org/10.1002/2017JD026844)
+
+- Kerminen, V.-M., & Kulmala, M. (2002). Analytical formulae connecting the “real” and the “apparent” nucleation rate and the nuclei number concentration for atmospheric nucleation events. *Journal of Aerosol Science*, 33, 609–622. [https://doi.org/10.1016/S0021-8502(01)00194-X](https://doi.org/10.1016/S0021-8502(01)00194-X)
+
+- Patoulias, D., Florou, K., Pandis, S. N., & Nenes, A. (2024). New Particle Formation Events Can Reduce Cloud Droplets in Boundary Layer Clouds at the Continental Scale. *Geophysical Research Letters*, 51, e2023GL106182. [https://doi.org/10.1029/2023GL106182](https://doi.org/10.1029/2023GL106182)
+
+- Roldin, P., Ehn, M., Kurtén, T., Olenius, T., Rissanen, M. P., Sarnela, N., Elm, J., Rantala, P., Hao, L., Hyttinen, N., Heikkinen, L., Worsnop, D. R., Pichelstorfer, L., Xavier, C., Clusius, P., Öström, E., Petäjä, T., Kulmala, M., Vehkamäki, H., Virtanen, A., Riipinen, I., & Boy, M. (2019). The role of highly oxygenated organic molecules in the Boreal aerosol-cloud-climate system. *Nature Communications*, 10, 4370. [https://doi.org/10.1038/s41467-019-12338-8](https://doi.org/10.1038/s41467-019-12338-8)
+
+- Stolzenburg, D., Cai, R., Blichner, S. M., Kontkanen, J., Zhou, P., Makkonen, R., Kerminen, V.-M., Kulmala, M., Riipinen, I., & Kangasluoma, J. (2023). Atmospheric nanoparticle growth. *Reviews of Modern Physics*, 95, 045002. [https://doi.org/10.1103/RevModPhys.95.045002](https://doi.org/10.1103/RevModPhys.95.045002)
+
+- Sullivan, R. C., Crippa, P., Matsui, H., Leung, L. R., Zhao, C., Thota, A., & Pryor, S. C. (2018). New particle formation leads to cloud dimming. *npj Climate and Atmospheric Science*, 1, 1–9. [https://doi.org/10.1038/s41612-018-0019-7](https://doi.org/10.1038/s41612-018-0019-7)
+
+- Svenhag, C., Sporre, M. K., Olenius, T., Yazgi, D., Blichner, S. M., Nieradzik, L. P., & Roldin, P. (2024). Implementing detailed nucleation predictions in the Earth system model EC-Earth3.3.4: sulfuric acid–ammonia nucleation. *Geoscientific Model Development*, 17, 4923–4942. [https://doi.org/10.5194/gmd-17-4923-2024](https://doi.org/10.5194/gmd-17-4923-2024)
+
