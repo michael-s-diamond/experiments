@@ -1,4 +1,4 @@
-ACI "Baseline" Experiment
+ACI Baseline Experiment
 =========================
 
 <!-- One way to get this into other formats (e.g., docx for the google doc version) -->
