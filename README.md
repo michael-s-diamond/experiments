@@ -1,5 +1,5 @@
-# experiments
-Managing AeroCom experiments and associated diagnostics.
+# aerocom-community/experiments repository
+Managing [AeroCom](https://aerocom.met.no) experiments and associated diagnostics.
 
 ## Discussion
 Use the [Discussions](https://github.com/aerocom-community/experiments/discussions) forum to discuss ideas you might have for experiments, diagnostics or anything else relevant to AeroCom experiments. 
