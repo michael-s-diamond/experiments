@@ -17,7 +17,7 @@ any of the following ways:
  1. Leave a comment or edit the [google docs version of this
     document](https://docs.google.com/document/d/1TlV4SynIRs0v6d8X2GwikCh9I8D_XKCw/edit?usp=sharing&ouid=111193538246169007999&rtpof=true&sd=true) _in suggestion mode_
  1. Interact directly with the [master version of this document on
-    GitHub](https://github.com/aerocom-community/experiments/phase-4/proposed/aci-baseline/aci-baseline.md) (e.g., via a
+    GitHub](https://github.com/aerocom-community/experiments/blob/main/phase-4/proposed/aci-baseline/aci-baseline.md) (e.g., via a
     pull request containing your proposed changes)
 	
 Johannes Mü will collate comments and suggestions, and they will be discussed at the Lille
