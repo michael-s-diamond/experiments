@@ -1,6 +1,11 @@
 # aerocom-community/experiments repository
 Managing [AeroCom](https://aerocom.met.no) experiments and associated diagnostics.
 
+## Currently proposed experiments
+  * Phase 4 Control
+  * [Climate Impact of NPF versus Growth in Climate Models (CI-NPF)](phase-4/proposed/ci-npf/ci-npf_description.md)
+  * [ACI Baseline](phase-4/proposed/aci-baseline/aci-baseline.md)
+
 ## Discussion
 Use the [Discussions](https://github.com/aerocom-community/experiments/discussions) forum to discuss ideas you might have for experiments, diagnostics or anything else relevant to AeroCom experiments. 
 
